@@ -73,7 +73,7 @@ Feel free to reach out to me via [email](mailto:kartik11buttan@gmail.com) or con
 
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik1112&show_icons=true&theme=radical&rank_icon=github) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
