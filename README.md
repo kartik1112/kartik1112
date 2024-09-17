@@ -71,7 +71,10 @@ _February 2023 - April 2023, Jaipur, India_
 
 Feel free to reach out to me via [email](mailto:kartik11buttan@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kartikbuttan/).
 
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik1112&show_icons=true&theme=radical)
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik1112&show_icons=true&theme=radical&rank_icon=github) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 kartik1112/kartik1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
