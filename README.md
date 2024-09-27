@@ -75,6 +75,8 @@ Feel free to reach out to me via [email](mailto:kartik11buttan@gmail.com) or con
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartik1112&theme=dark&hide_border=false)
+
 
 <!---
 kartik1112/kartik1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
