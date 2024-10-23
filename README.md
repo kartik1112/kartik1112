@@ -1,6 +1,3 @@
-
-![image](https://media.licdn.com/dms/image/D5616AQFRg6xDXRZKrA/profile-displaybackgroundimage-shrink_350_1400/0/1719350221761?e=1726704000&v=beta&t=Umep5j6XUnxSvF1aewKJbad2V8y3sOCqRpY46OEK9yM)  
-
 # Kartik Buttan
 
 [![GitHub](https://img.shields.io/badge/GitHub-kartik1112-blue?style=flat&logo=github)](https://github.com/kartik1112)
@@ -8,6 +5,8 @@
 [![Email](https://img.shields.io/badge/Email-kartik11buttan%40gmail.com-blue?style=flat&logo=gmail)](mailto:kartik11buttan@gmail.com)
 
 ---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik1112" alt="kartik1112" /></a> </p>
 
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik1112&show_icons=true&theme=radical&rank_icon=github) 
 
