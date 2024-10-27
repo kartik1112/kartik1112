@@ -14,6 +14,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartik1112&theme=dark&hide_border=false)
 
+[![An image of @kartik1112's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartik1112)](https://holopin.io/@kartik1112)
+
 
 <!---
 kartik1112/kartik1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
